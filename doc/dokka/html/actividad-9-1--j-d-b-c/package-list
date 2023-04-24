@@ -1,0 +1,20 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/actividad-9-1--j-d-b-c/[root]/index.html
+$dokka.location://main/#/PointingToDeclaration/actividad-9-1--j-d-b-c/[root]/main.html
+$dokka.location:dao////PointingToDeclaration/actividad-9-1--j-d-b-c/dao/index.html
+$dokka.location:dao/ProductDAO///PointingToDeclaration/actividad-9-1--j-d-b-c/dao/-product-d-a-o/index.html
+$dokka.location:dao/ProductDAO/ProductDAO/#/PointingToDeclaration/actividad-9-1--j-d-b-c/dao/-product-d-a-o/-product-d-a-o.html
+$dokka.location:dao/ProductDAO/createProduct/#dataForTable.Product/PointingToDeclaration/actividad-9-1--j-d-b-c/dao/-product-d-a-o/create-product.html
+$dokka.location:dataForTable////PointingToDeclaration/actividad-9-1--j-d-b-c/dataForTable/index.html
+$dokka.location:dataForTable/Product///PointingToDeclaration/actividad-9-1--j-d-b-c/dataForTable/-product/index.html
+$dokka.location:dataForTable/Product/Product/#kotlin.Int#kotlin.String#kotlin.Float#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/actividad-9-1--j-d-b-c/dataForTable/-product/-product.html
+$dokka.location:dataForTable/Product/brand/#/PointingToDeclaration/actividad-9-1--j-d-b-c/dataForTable/-product/brand.html
+$dokka.location:dataForTable/Product/category/#/PointingToDeclaration/actividad-9-1--j-d-b-c/dataForTable/-product/category.html
+$dokka.location:dataForTable/Product/description/#/PointingToDeclaration/actividad-9-1--j-d-b-c/dataForTable/-product/description.html
+$dokka.location:dataForTable/Product/id/#/PointingToDeclaration/actividad-9-1--j-d-b-c/dataForTable/-product/id.html
+$dokka.location:dataForTable/Product/name/#/PointingToDeclaration/actividad-9-1--j-d-b-c/dataForTable/-product/name.html
+$dokka.location:dataForTable/Product/price/#/PointingToDeclaration/actividad-9-1--j-d-b-c/dataForTable/-product/price.html
+dao
+dataForTable
+
